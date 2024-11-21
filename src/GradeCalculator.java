@@ -38,9 +38,6 @@ public class GradeCalculator{
            sum += grades[i] * weights[i];
            weightSum += weights[i];
        }
-       if (weightSum > 1) {
-           System.out.println("Warning! You may have entered a weight wrong, result might be inaccurate");
-       }
        return (targetGrade - sum) / (1-weightSum);
    }
 
@@ -75,10 +72,6 @@ public class GradeCalculator{
             weightedGrades += grades[i] * weights[i];
             totalWeight += weights[i];
         }
-        if (totalWeight > 1) {
-            System.out.println("Warning! You may have entered a weight wrong, result might be inaccurate");
-        }
-
         return weightedGrades/totalWeight;
     }
 
