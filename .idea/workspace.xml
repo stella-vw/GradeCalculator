@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c84cf2b-4db0-4038-a593-1c3fb4374566" name="Changes" comment="removed extraneous code (sum &gt; 1)" />
+    <list default="true" id="4c84cf2b-4db0-4038-a593-1c3fb4374566" name="Changes" comment="removed extraneous code (sum &gt; 1)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,12 +42,15 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/srvan/Desktop/projects/GradeCalculator",
+    "last_opened_file_path": "C:/Users/srvan/Desktop/projects/GradeCalculator/out",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -83,7 +88,8 @@
       <workItem from="1732036367418" duration="5172000" />
       <workItem from="1732066353908" duration="857000" />
       <workItem from="1732068274256" duration="31000" />
-      <workItem from="1732163189576" duration="3857000" />
+      <workItem from="1732163189576" duration="4455000" />
+      <workItem from="1732728725975" duration="562000" />
     </task>
     <task id="LOCAL-00001" summary="added input validation and loops if inputs are invalid">
       <option name="closed" value="true" />
